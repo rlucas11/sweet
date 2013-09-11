@@ -1,4 +1,4 @@
-sweet
+Replication of Meier et al. (2012)
 =====
 
 Replication of Meier, B. P, Moeller, S. K., Riemer-Peltz, M., & Robinson, M. D. (2012). Sweet taste Preferences and experiences predict prosocial inferences, personalities, and behaviors. _Journal of Personality and Social Psychology, 102,_ 163-174.
